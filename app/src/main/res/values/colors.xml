@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryDark">#2e7d32</color>
+    <!--<color paramName="accent">#4caf50</color>-->
+    <color name="accent">#0bbde1</color>
+    <color name="tabTextColor">#63c2d6</color>
+    <color name="gray">#ece8f4</color>
+    <color name="grayDark">#939191</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#666366</color>
+    <color name="colorcoffee">#85714D</color>
+    <color name="colorpantonblue">#00b5e2</color>
+    <color name="clubcardevice">#666366</color>
+    <color name="pantonecoolgraysix">#ADAFAF</color>
+    <color name="pantonecoolgrayeleven">#4D4F53</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="invertedGray">#999c99</color>
+    <color name="lighterGray">#807c80</color>
+
+</resources>
